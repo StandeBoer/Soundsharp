@@ -1,0 +1,8 @@
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Tester\bin\Debug\Tester.exe.config
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Tester\bin\Debug\Tester.exe
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Tester\bin\Debug\Tester.pdb
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Tester\bin\Debug\AudioDevices.dll
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Tester\bin\Debug\AudioDevices.pdb
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Tester\obj\Debug\Tester.exe
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Tester\obj\Debug\Tester.pdb

@@ -1,0 +1,6 @@
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Opdracht2\Opdracht2\bin\Debug\Opdracht2.exe.config
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Opdracht2\Opdracht2\bin\Debug\Opdracht2.exe
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Opdracht2\Opdracht2\bin\Debug\Opdracht2.pdb
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Opdracht2\Opdracht2\obj\Debug\Opdracht2.csprojResolveAssemblyReference.cache
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Opdracht2\Opdracht2\obj\Debug\Opdracht2.exe
+C:\Users\stand_000\Documents\Visual Studio 2013\Projects\Soundsharp\Opdracht2\Opdracht2\obj\Debug\Opdracht2.pdb
